@@ -1,7 +1,7 @@
 # OOP Matrix Library (C++)
 
 This project implements a **2D Matrix class in C++** using Object-Oriented Programming.  
-It includes constructors, copy constructor, destructor, exception handling, and rich operator overloading.
+It includes constructors, copy constructor, destructor, exception handling, and **rich operator overloading**.
 
 ## Features
 - Rule of Three: constructor, copy constructor, destructor (deep copy).
