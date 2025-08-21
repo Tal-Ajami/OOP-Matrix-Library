@@ -10,7 +10,7 @@ It includes constructors, copy constructor, destructor, exception handling, and 
 - Casting operator to `double` → returns sum of all elements.
 - Associativity checks (e.g., `(A+B)-C`).
 
-## 📸 Screenshots
+## Screenshots
 ![Matrix Demo 1](matrix_demo_1.png)  
 ![Matrix Demo 2](matrix_demo_2.png)
 
